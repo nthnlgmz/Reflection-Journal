@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Reflection Journal</title>
+
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide the main scrollbar */
+}
+
+.main {
+  margin-top: 50px; /* Adjust the top margin to create space below the navbar */
+  width: 70%;
+  padding: 20px;
+  height: 100vh;
+  text-align: center; /* Center the content horizontally within the main container */
+  border-radius: 15px; /* Add rounded corners to the main container */
+  background-color: #fff; /* Set a background color if needed */
+  scrollbar-width: thin; /* Hide the scrollbar for Firefox */
+  scrollbar-color: transparent transparent; /* Hide the scrollbar for Firefox */
+  overflow: scroll; /* Add scrollbar for the main content */
+  background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust the size to cover the entire viewport */
+  background-attachment: fixed;
+}
+
+.main img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 20px; /* Add space to the top of the image */
+  border-radius: 15px; /* Add rounded corners to the image */
+  opacity: 0.7; /* Set the opacity (0.7 for 70%) */
+}
+
+/* Hide the scrollbar thumb for WebKit browsers like Chrome */
+.main::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Hide the scrollbar thumb for Firefox */
+.main::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Apply special styling to the first letter of each paragraph */
+.main p::first-letter {
+  font-size: 4em; /* Adjust the font size as desired */
+  margin-right: 4px; /* Add some space to separate the enlarged first letter */
+  font-family: "Crimson Text", serif;
+  float: left; /* Float the first letter to the left to make text wrap around it */
+  margin: 0 5px 0 0; /* Adjust the margin to control the spacing between the first letter and text */
+}
+
+/* Justify the text */
+.main p {
+  text-align: justify;
+  font-family: "Crimson Text", serif;
+  font-size: 23px;
+  margin-bottom: 70px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333; /* Change the background color as needed */
+  color: #fff; /* Change the text color as needed */
+  padding: 10px 0;
+  display: flex;
+  align-items: center; /* Vertically center logo and text */
+  z-index: 999;
+}
+
+.navbar-logo img {
+  max-height: 40px; /* Adjust the maximum logo height as needed */
+  margin-left: 20px; /* Add margin to create space between the logo and text */
+}
+
+.navbar-text {
+  text-decoration: none;
+  color: #fff; /* Change the text color as needed */
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: bold; /* Add or remove font weight as needed */
+  margin: 0 auto; /* Center the text horizontally within the navbar */
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar h2 {
+  font-size: 18px;
+}
+
+/* Hide the scrollbar */
+.sidebar {
+  width: 30%;
+  background-color: #f0f0f0;
+  margin-top: 50px;
+  height: 100vh;
+  overflow: hidden; /* Hide the scrollbar for the sidebar */
+  padding: 20px;
+}
+
+/* Make the content scrollable within the sidebar */
+.sidebar-container {
+  max-height: 100%;
+  overflow-y: scroll; /* Add scrollbar only when content exceeds the max height */
+  scrollbar-width: none; /* Hide the scrollbar thumb for Firefox */
+}
+
+/* Hide the scrollbar thumb for WebKit browsers like Chrome */
+.sidebar-container::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Hide the scrollbar thumb for Firefox */
+.sidebar-container::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+.sidebar a {
+  text-decoration: none;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-left: 20px;
+  text-align: justify;
+  list-style: disc;
+  margin-bottom: 70px;
+}
+.sidebar ul li a {
+  color: #333; /* Change the color to your desired font color */
+}
+.sidebar li {
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+/* Highlight the active seminar link with a border */
+.sidebar a.current {
+  border-left: 4px solid #ff5733; /* Change the border color and width as needed */
+  padding-left: 10px; /* Add some padding to separate the border from text */
+  transition: border-color 0.3s; /* Add a smooth transition for the border color change */
+}
+
+/* Add a left-to-right color animation with padding and rounded corners for seminar links on hover */
+.sidebar a {
+  transition: color 0.3s; /* Add a smooth transition for text color change */
+  padding-left: 6px; /* Slightly increase padding to account for the border */
+}
+
+.sidebar a:hover {
+  display: inline-block; /* Make the link an inline block element */
+  background: linear-gradient(
+    to right,
+    #007bff 0%,
+    #007bff 100%
+  ); /* Left-to-right color animation */
+  background-size: 200% 100%; /* Double the size for a full transition effect */
+  background-position: 200% 0; /* Start the animation from the left */
+  border-radius: 5px; /* Add rounded corners */
+  color: #fff; /* Change the text color on hover */
+  transition: background-position 0.3s, color 0.3s; /* Smooth animation */
+  padding: 5px; /* Add padding to the link */
+}
+
+/* Add margin to the sentence below the link when hovering over it */
+.sidebar a:hover + p {
+  margin-left: 10px; /* Adjust the margin as needed */
+}
+
+/* Style for the fixed container at the bottom */
+.fixed-container {
+  position: fixed;
+  bottom: 0; /* Position it at the bottom of the viewport */
+  left: 0;
+  background-color: #000;
+  border-top-left-radius: 15px; /* Add rounded corners to the left bottom side */
+  border-top-right-radius: 15px; /* Add rounded corners to the right bottom side */
+  padding: 10px;
+  color: #fff;
+  z-index: 999;
+  width: 100%;
+  text-align: center;
+}
+
+.fixed-container p {
+  font-size: 16px; /* Adjust the font size as needed */
+  margin: 0;
+}
+.fixed-container a {
+  text-decoration: none; /* Remove the underline from the link */
+  color: #fff; /* Set the text color to white */
+  transition: color 0.3s; /* Add a smooth transition for the text color change */
+}
+
+.fixed-container a:hover {
+  color: #007bff; /* Change the text color on hover */
+  transition: color 0.3s; /* Smooth animation */
+}
+
+.fixed-container a {
+  text-decoration: none; /* Remove the underline from the link */
+  color: #fff; /* Set the text color to white */
+  transition: color 0.3s; /* Add a smooth transition for the text color change */
+  position: relative; /* Position the pseudo-element relative to the link */
+}
+
+.fixed-container a:hover {
+  color: #007bff; /* Change the text color on hover */
+  transition: color 0.3s; /* Smooth animation */
+}
+
+.fixed-container a::before {
+  content: "Charges may apply"; /* Content to display */
+  position: absolute; /* Position absolutely relative to the link */
+  top: -18px; /* Adjust the vertical position */
+  left: 50%; /* Center the box horizontally */
+  transform: translateX(-50%); /* Center the box horizontally */
+  transform: translateY(-60%); /* Center the box horizontally */
+  opacity: 0; /* Start with opacity set to 0 */
+  transition: opacity 0.3s, visibility 0.3s; /* Add a smooth transition for opacity and visibility */
+  background-color: #007bff; /* Background color for the box */
+  color: #fff; /* Text color for the box */
+  padding: 5px 10px; /* Add padding to the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  visibility: hidden; /* Hide the box by default */
+}
+
+.fixed-container a:hover::before {
+  opacity: 1; /* Display the box on hover */
+  visibility: visible; /* Show the box on hover */
+  transition: opacity 0.3s, visibility 0.3s; /* Smooth animation */
+}
+
+</style>
+<body>
+<div class="navbar">
+    <div class="navbar-logo">
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Batangas_State_Logo.png" alt="Batangas State Logo">
+    </div>
+    <div class="navbar-text">
+      MEXE 411 - MEXE Seminars / Colloquium
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="main">
+      <img src="https://www.ice.mpg.de/272368/header_image-1628080342.jpg?t=eyJ3aWR0aCI6ODQ4LCJmaWxlX2V4dGVuc2lvbiI6ImpwZyIsIm9ial9pZCI6MjcyMzY4fQ%3D%3D--eeeb09be1f2dd87c8b70f25b246d7c0b7f45c74b" alt="Banner Image">
+      <p>Welcome to the world of MEXE Seminars and Colloquiums, where the pursuit of knowledge, innovation, and intellectual exchange takes center stage. MEXE, an acronym for "Meetings, Expositions, Experiences," represents a dynamic platform that brings together experts, thought leaders, and enthusiasts from diverse fields to engage in thought-provoking discussions, presentations, and debates. Our mission is to foster a vibrant intellectual community, where ideas are shared, debated, and expanded upon, ultimately leading to a deeper understanding of the complex issues that shape our world. Whether you are a seasoned scholar, an aspiring researcher, or simply someone eager to explore cutting-edge concepts, MEXE Seminars and Colloquiums promise to be a source of inspiration and enlightenment. Join us on this captivating journey of exploration and discovery as we delve into the heart of intellectual discourse, innovation, and lifelong learning.</p><br><br>
+
+    </div>
+    <div class="sidebar">
+      <div class="sidebar-container">
+        <h2><a href="" class="current">Home</a></h2>
+        <h2>Seminars Attended</h2>
+        <ul>
+          <li><a href="https://sites.google.com/g.batstate-u.edu.ph/journal/smart-sweep">SMART SWEEP</a></li>
+          <li><a href="seminar2.html">The Cutting Edge of Automation: An Introduction to Distributed Control System</a></li>
+          <li><a href="seminar3.html">D' HorICEzon 2023: Engineering Path Environment, Health, and Safety</a></li>
+          <li><a href="seminar4.html">Innovation and Leadership in Instrumentation and Control Engineering Careers</a></li>
+          <li><a href="seminar5.html">Unlocking Precision: A Webinar Guide for Industrial Process Instrument Calibration</a></li>
+          <li><a href="seminar6.html">Streamlining Operations: The Role of Instrumentation in Process Industries</a></li>
+          <li><a href="seminar7.html">Unlocking the Power of Control Systems: A Comprehensive Introduction to Instrumentation in the EPC Industry</a></li>
+          <li><a href="seminar8.html">INGINIERO: Insights Nurtured - Guiding Interpretations, Numbers, and Information for Effective Results and Outcomes, Unleashing Engineering Excellence</a></li>
+          <li><a href="seminar9.html">"MEXintElligence in Industrial Automation with Programmable Logic Controller (PLC) and Distributed Control System (DCS)"</a></li>
+          <li><a href="seminar10.html">"Beyond the Diploma: Thriving in the Real World - A Seminar on Guiding Fresh Graduates in Making Informed Career Choices"</a></li>
+          <li><a href="seminar11.html">Roles in Manufacturing: An Insider's Guide to Manufacturing</a></li>
+          <li><a href="seminar12.html">Prōject: Projecting Insights in Project Management</a></li>
+          <li><a href="seminar13.html">Industrial Application of Network Protocols</a></li>
+          <li><a href="seminar14.html">Industrial Process Control System : A 3B's Course Scope - "BRIEF BUT BROAD"</a></li>
+        </ul>
+        <br><br>
+        <br>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Reflection Journal</title>
+</head>
+
+<body>
+  <div class="navbar">
+    <div class="navbar-logo">
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Batangas_State_Logo.png" alt="Batangas State Logo">
+    </div>
+    <div class="navbar-text">
+      MEXE 411 - MEXE Seminars / Colloquium
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="main">
+      <img src="https://www.ice.mpg.de/272368/header_image-1628080342.jpg?t=eyJ3aWR0aCI6ODQ4LCJmaWxlX2V4dGVuc2lvbiI6ImpwZyIsIm9ial9pZCI6MjcyMzY4fQ%3D%3D--eeeb09be1f2dd87c8b70f25b246d7c0b7f45c74b" alt="Banner Image">
+      <p>Welcome to the world of MEXE Seminars and Colloquiums, where the pursuit of knowledge, innovation, and intellectual exchange takes center stage. MEXE, an acronym for "Meetings, Expositions, Experiences," represents a dynamic platform that brings together experts, thought leaders, and enthusiasts from diverse fields to engage in thought-provoking discussions, presentations, and debates. Our mission is to foster a vibrant intellectual community, where ideas are shared, debated, and expanded upon, ultimately leading to a deeper understanding of the complex issues that shape our world. Whether you are a seasoned scholar, an aspiring researcher, or simply someone eager to explore cutting-edge concepts, MEXE Seminars and Colloquiums promise to be a source of inspiration and enlightenment. Join us on this captivating journey of exploration and discovery as we delve into the heart of intellectual discourse, innovation, and lifelong learning.</p><br><br>
+    </div>
+
+    <div class="sidebar">
+      <div class="sidebar-container">
+        <h2>Seminars Attended</h2>
+        <ul>
+          <li>SMART SWEEP </li>
+          <li>The Cutting Edge of Automation: An Introduction to Distributed Control System</li>
+          <li>D' HorICEzon 2023: Engineering Path Environment, Health, and Safety</li>
+          <li> Innovation and Leadership in Instrumentation and Control Engineering Careers </li>
+          <li>Unlocking Precision : A Webinar Guide for Industrial Process Instrument Calibration</li>
+          <li>Streamlining Operations: The Role of Instrumentation in Process Industries</li>
+          <li>Unlocking the Power of Control Systems: A Comprehensive
+            Introduction to Instrumentation in the EPC Industry</li>
+          <li>INGINIERO: Insights Nurtured - Guiding Interpretations, Numbers, and Information for Effective Results and Outcomes, Unleashing Engineering Excellence</li>
+          <li>"MEXintElligence in Industrial Automation with Programmable Logic Controller (PLC) and Distributed Control System (DCS)"</li>
+          <li>"Beyond the Diploma: Thriving in the Real World - A Seminar on Guiding Fresh Graduates in Making Informed Career Choices"</li>
+          <li>Roles in Manufacturing: An Insider's Guide to Manufacturing</li>
+          <li>Prōject: Projecting Insights in Project Management</li>
+          <li>Industrial Application of Network Protocols</li>
+          <li>Industrial Process Control System : A 3B's Course Scope - "BRIEF BUT BROAD"</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="fixed-container">
+    <p>Do you need someone to create certificates and handle email for your upcoming seminars? Click <a href="">here.</a>
+  </div>
+
+</body>
+</html>
