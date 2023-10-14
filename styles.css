@@ -241,6 +241,13 @@ body {
   .sidebar {
     display: none;
   }
+  
+  .fixed-container a::before {
+  top: -25px; /* Adjust the vertical position */
+  left: -100%; /* Center the box horizontally */
+  transform: translateX(50%); /* Center the box horizontally */
+  transform: translateY(-60%); /* Center the box horizontally */
+}
 
   /* Style the burger icon */
   .navbar-burger {
@@ -312,7 +319,7 @@ body {
   .drawer ul {
     padding: 0;
     list-style-position: inside;
-    margin-bottom: 250px;
+    margin-bottom: 150px;
   }
 
   .drawer ul li {
