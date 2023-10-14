@@ -312,6 +312,7 @@ body {
   .drawer ul {
     padding: 0;
     list-style-position: inside;
+    margin-bottom: 250px;
   }
 
   .drawer ul li {
@@ -339,7 +340,7 @@ body {
   }
 
   .main p {
-    margin-bottom: 120px;
+    margin-bottom: 250px;
   }
 }
 
