@@ -1,3 +1,4 @@
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/897f3ecf-89df-46f9-be0b-4395314d8d83)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/e3391281-6c51-440f-8874-80364d8a2012)
 ![Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/e73339e6-f431-483f-bd72-635389b99f05)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f310631d-7535-465a-80b0-b55f0cedcfad)
