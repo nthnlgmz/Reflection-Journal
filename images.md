@@ -1,3 +1,5 @@
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f310631d-7535-465a-80b0-b55f0cedcfad)
+
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9b2cb2fa-3af9-4e47-82db-bd8f15e41c53)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/579f5686-9d6d-4a8c-b22f-0d38ca0b7924)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/17db708d-3561-44d6-841a-3f928e4b4819)
@@ -19,6 +21,7 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9f2a6669-a36b-432c-8b90-6a296c1e856f)
 ![certificate2_page-0006](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b092a010-51a9-4620-adc5-dd19605587c2)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0cd19887-94b4-4246-906e-d5d5cb577c88)
+![Certificates Done-79_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a6a0dbce-dd42-4a5f-9fd0-929557542f2e)
 
 
 
