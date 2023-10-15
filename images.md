@@ -8,6 +8,7 @@
 ![Nathaniel A  Gomez (1)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/04fa2c7f-d41b-48c2-adfc-0c6a388e0aa5)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/46d9e6fb-3d54-45c4-a00b-21574f3e3672)
 ![ICEthetic E-Certificate, Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1e099733-e46d-444e-bc97-e2e966af4555)
+![GOMEZ, NATHANIEL A  (1)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/68f8c8b5-7f98-4347-9f4e-9d07656b7614)
 
 
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9b2cb2fa-3af9-4e47-82db-bd8f15e41c53)
