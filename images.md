@@ -17,5 +17,8 @@
 ![Certificate of Appreciation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/944ac745-27a7-499d-b211-6ec3867935d2)
 ![Certificate of Participant Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/175e077c-990a-4eb7-abf3-253330e9cd08)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9f2a6669-a36b-432c-8b90-6a296c1e856f)
+![certificate2_page-0006](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b092a010-51a9-4620-adc5-dd19605587c2)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0cd19887-94b4-4246-906e-d5d5cb577c88)
+
 
 
