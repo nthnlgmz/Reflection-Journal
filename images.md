@@ -1,4 +1,8 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f310631d-7535-465a-80b0-b55f0cedcfad)
+![Nathaniel A  Gomez (2)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5a6a5392-b1ee-4706-8ae0-5f46ec91ebfe)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/bd3f9d41-d394-4348-919f-5afd7d3ffc3c)
+![SPARK AI Webinar E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/d27a8eab-1d14-464a-8fec-8d286509c871)
+
 
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9b2cb2fa-3af9-4e47-82db-bd8f15e41c53)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/579f5686-9d6d-4a8c-b22f-0d38ca0b7924)
