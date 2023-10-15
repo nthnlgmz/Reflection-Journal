@@ -13,3 +13,5 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/55344530-baca-4eb8-95ed-26f2d77b9f8a)
 ![E-Certificate for Participants_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/66603b53-1453-494e-a5cd-596d61676a4e)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c4428b19-b481-4837-8e80-fd4fab840c3b)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/da0ab3a4-e48a-4aad-adb8-1f12a7de9120)
+![Certificate of Appreciation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/944ac745-27a7-499d-b211-6ec3867935d2)
