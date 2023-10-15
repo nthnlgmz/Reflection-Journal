@@ -6,4 +6,6 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/35559c5f-cb44-49d7-ad0e-85d09340aa98)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/4a9b0002-3aad-46ac-9f21-221d480399bd)
 ![E-Certificate_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8be1308b-798b-4ada-b1de-51694d9e689d)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/bb0e477c-be71-47fc-b4da-375fc67d0d66)
+![GOMEZ, NATHANIEL A _page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8c857ad7-0fd7-4fc3-b376-24289be98590)
 
