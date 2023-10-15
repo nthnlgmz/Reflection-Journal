@@ -23,7 +23,9 @@ body {
   background-size: cover; /* Adjust the size to cover the entire viewport */
   background-attachment: fixed;
 }
-
+.small-screen-message {
+    display: none;
+  }
 .main img {
   width: 100%;
   height: auto;
@@ -43,14 +45,7 @@ body {
   background: transparent;
 }
 
-/* Apply special styling to the first letter of each paragraph */
-.main p::first-letter {
-  font-size: 4em; /* Adjust the font size as desired */
-  margin-right: 4px; /* Add some space to separate the enlarged first letter */
-  font-family: "Crimson Text", serif;
-  float: left; /* Float the first letter to the left to make text wrap around it */
-  margin: 0 0px 0 0; /* Adjust the margin to control the spacing between the first letter and text */
-}
+
 
 /* Justify the text */
 .main p {
@@ -235,119 +230,6 @@ body {
   transition: opacity 0.3s, visibility 0.3s; /* Smooth animation */
 }
 
-/* For small screens (e.g., smartphones) */
-@media screen and (max-width: 767px) {
-  /* Hide the sidebar by default for small and tablet-sized screens */
-  .sidebar {
-    display: none;
-  }
-  
-  .fixed-container a::before {
-  content: ""; /* Content to display */
-  background-color: transparent; /* Background color for the box */
-}
-
-  /* Style the burger icon */
-  .navbar-burger {
-    display: block;
-    cursor: pointer;
-    margin-right: 20px;
-  }
-
-  .bar {
-    width: 25px;
-    height: 3px;
-    background-color: #fff;
-    margin: 6px 0;
-    transition: 0.4s;
-  }
-
-  .main {
-    margin-top: 30px;
-    width: 100%;
-    padding: 20px;
-    height: 100vh;
-    text-align: center;
-    border-radius: 15px;
-    background-color: #fff;
-    scrollbar-width: thin;
-    scrollbar-color: transparent transparent;
-    overflow: scroll;
-    background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-  }
-
-  .drawer a.current {
-    border-left: 4px solid #ff5733;
-    padding-left: 10px;
-    transition: border-color 0.3s;
-  }
-
-  /* Style the logo and text */
-  .navbar-logo img {
-    max-height: 40px;
-  }
-
-  /* Style the drawer */
-  .drawer {
-    position: fixed;
-    top: 0;
-    left: -290px;
-    width: 250px;
-    height: 100%;
-    background-color: #333;
-    color: #fff;
-    transition: left 0.3s;
-    z-index: 999;
-    padding: 20px;
-  }
-
-  .drawer a {
-    text-decoration: none;
-    color: white;
-  }
-
-  .drawer h2 {
-    font-size: 20px;
-    margin-bottom: 10px;
-  }
-
-  .drawer ul {
-    padding: 0;
-    list-style-position: inside;
-    margin-bottom: 110px;
-  }
-
-  .drawer ul li {
-    margin-bottom: 10px;
-  }
-
-  /* Add a class to open the drawer */
-  .drawer.open {
-    left: 0;
-  }
-
-  /* Style the burger icon */
-  .navbar-burger {
-    display: block;
-    cursor: pointer;
-    margin-left: 20px;
-  }
-
-  .navbar-text {
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    font-weight: bold;
-    margin-left: 30px;
-  }
-
-  .main p {
-    margin-bottom: 250px;
-  }
-}
 
 /* For tablets */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -413,7 +295,7 @@ body {
   .navbar-logo img {
     max-height: 40px;
   }
-
+ 
   .navbar-text {
     text-decoration: none;
     color: white;
@@ -452,5 +334,123 @@ body {
 @media screen and (min-width: 1024px) {
   .drawer {
     display: none;
+  }
+}
+
+* {
+ 
+    box-sizing: border-box;
+}
+
+profile {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+profile .card {
+    width: 600px;
+  height: 300px;
+    background-color: var(--white);
+    display: flex;
+    border-radius: 12px;
+}
+profile .card .card__img, profile .card .card__content {
+    width: 50%;
+}
+profile .card .card__img picture {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+profile .card .card__img picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px 0px 0px 12px;
+}
+
+profile .card .card__content {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0px;
+}
+profile .card .card__content .card__tag {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 20px;
+  margin-left: 20px;
+    color: var(--dark-grayish-blue);
+}
+profile .card .card__content .card__title {
+    font-family: 'Fraunces', serif;
+    text-transform: capitalize;
+}
+profile .card .card__content .card__desc {
+    font-size: 15px;
+    color: var(--dark-grayish-blue);
+    line-height: 24px;
+   margin-left: 20px;
+}
+profile .card .card__content .card__price {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+profile .card .card__content .card__price h1 {
+    color: var(--dark-cyan);
+    font-family: 'Fraunces', serif;
+}
+profile .card .card__content .card__price s {
+    font-size: 14px;
+    color: var(--dark-grayish-blue);
+}
+profile .card .card__content .card__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    background-color: var(--dark-cyan);
+    padding: 14px;
+    outline: none;
+    border: 0;
+    border-radius: 10px;
+    color: var(--white);
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 200ms linear;
+}
+profile .card .card__content .card__btn:hover {
+    background-color: var(--very-dark-blue);
+}
+
+
+/* For tablets and small screens (max-width: 768px) */
+@media (max-width: 768px) {
+  .drawer {
+    display: none;
+  }
+  .main {
+    display: none;
+  }
+  .sidebar {
+    display: none;
+  }
+  body {
+    background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
+    background-repeat: no-repeat;
+  background-size: cover; /* Adjust the size to cover the entire viewport */
+  background-attachment: fixed;
+  }
+  .small-screen-message {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: red;
+    padding: 10px; /* Add padding around the message */
+    background-color: #f0f0f0; /* Set the background color */
+    border-radius: 500px; /* Add rounded corners */
+    margin-top: 300px;
   }
 }
