@@ -4,6 +4,7 @@
 ![SPARK AI Webinar E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/d27a8eab-1d14-464a-8fec-8d286509c871)
 ![Nathaniel A  Gomez](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/7bb3b09f-e352-4cec-a3d3-a56b38600f61)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1063e62a-3e37-471d-80fa-f73bde524553)
+![Nathaniel A  Gomez (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/65e81b63-9e56-4b93-ac1c-427851a3fce1)
 
 
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9b2cb2fa-3af9-4e47-82db-bd8f15e41c53)
