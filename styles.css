@@ -83,6 +83,7 @@ body {
 
 .container {
   display: flex;
+  margin-top: -50px;
 }
 
 .sidebar h2 {
@@ -93,7 +94,7 @@ body {
 .sidebar {
   width: 30%;
   background-color: #f0f0f0;
-  margin-top: 50px;
+  margin-top: 70px;
   height: 100vh;
   overflow: hidden; /* Hide the scrollbar for the sidebar */
   padding: 20px;
