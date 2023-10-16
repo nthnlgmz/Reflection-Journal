@@ -452,6 +452,6 @@ profile .card .card__content .card__btn:hover {
     padding: 10px; /* Add padding around the message */
     background-color: #f0f0f0; /* Set the background color */
     border-radius: 500px; /* Add rounded corners */
-    margin-top: 150px;
+    margin-top: 300px;
   }
 }
