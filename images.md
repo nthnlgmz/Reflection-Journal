@@ -38,6 +38,7 @@
 ![certificate2_page-0006](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b092a010-51a9-4620-adc5-dd19605587c2)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0cd19887-94b4-4246-906e-d5d5cb577c88)
 ![Certificates Done-79_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a6a0dbce-dd42-4a5f-9fd0-929557542f2e)
+![Certificate](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ee13bff3-b0d9-4f4a-a05b-23d88c2557c4)
 
 
 
