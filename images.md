@@ -65,6 +65,9 @@
 
 
 
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce1c753b-0a5d-43bb-9974-66ed81169544)
+
+
 
 
 
