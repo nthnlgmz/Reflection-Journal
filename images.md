@@ -40,6 +40,12 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0cd19887-94b4-4246-906e-d5d5cb577c88)
 ![Certificates Done-79_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a6a0dbce-dd42-4a5f-9fd0-929557542f2e)
 ![Certificate](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ee13bff3-b0d9-4f4a-a05b-23d88c2557c4)
+<br>
+***BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis Screenshots***
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9ba2349f-540e-49d5-9a37-7c96128d8b0a)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f52dcbbb-44ab-43fb-8dfb-8c198886660c)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/10bc1cd9-a5db-40c7-9ec1-036602d72355)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0c17c22e-0c41-4b30-b7a5-31620aad5bb8)
 
 
 
