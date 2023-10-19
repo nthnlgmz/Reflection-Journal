@@ -56,6 +56,13 @@
 
 ***Going In-Depth: Diving towards Perfection through Calibration and Building Automation System (BAS)***
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/39bf73a8-0852-41d0-a69b-21d06234294c)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5e3f4b6e-0b3c-4948-b85a-8b632bab0544)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b2bc118d-b593-438c-a499-7ba13e72643a)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0bd07b02-c16a-4c13-a7e0-0120d057d46f)
+
+
+
+
 
 
 
