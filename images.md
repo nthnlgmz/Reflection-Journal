@@ -52,6 +52,7 @@
 ***Beyond the Basics: Unlocking Potential through Advanced Instrumentation and Control Engineering***
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/438996fc-cfd9-48cd-85bb-3b12a436434e)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/4112271a-4bb5-405f-8b01-f03d90492e6b)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d24ce63-f63b-4e93-b255-23e568ae27c5)
 
 
 
