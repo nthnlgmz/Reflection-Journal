@@ -455,3 +455,12 @@ profile .card .card__content .card__btn:hover {
     margin-top: 300px;
   }
 }
+
+  .hover-image {
+            transition: transform 0.3s; /* Add a smooth transition effect */
+        }
+
+ .hover-image:hover {
+            transform: scale(1.1); /* Increase the size on hover (you can adjust the scale factor as needed) */
+            /* You can also add other CSS properties for more advanced hover effects like changing the opacity, adding a border, etc. */
+        }
