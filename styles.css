@@ -464,3 +464,11 @@ profile .card .card__content .card__btn:hover {
             transform: scale(1.1); /* Increase the size on hover (you can adjust the scale factor as needed) */
             /* You can also add other CSS properties for more advanced hover effects like changing the opacity, adding a border, etc. */
         }
+ .card__content {
+            transition: transform 0.3s;
+        }
+
+ .card__content:hover {
+            transform: scale(1.1); /* Increase the size on hover (you can adjust the scale factor as needed) */
+            /* You can customize the hover effect for .card__content as needed. */
+        }
