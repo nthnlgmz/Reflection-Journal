@@ -59,6 +59,7 @@
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5e3f4b6e-0b3c-4948-b85a-8b632bab0544)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b2bc118d-b593-438c-a499-7ba13e72643a)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0bd07b02-c16a-4c13-a7e0-0120d057d46f)
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/fb8b7134-8bc2-4902-8159-4bdc9c8694af)
 
 
 
