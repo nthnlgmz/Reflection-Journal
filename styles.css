@@ -24,8 +24,8 @@ body {
   background-attachment: fixed;
 }
 .small-screen-message {
-    display: none;
-  }
+  display: none;
+}
 .main img {
   width: 100%;
   height: auto;
@@ -44,8 +44,6 @@ body {
 .main::-webkit-scrollbar-thumb {
   background: transparent;
 }
-
-
 
 /* Justify the text */
 .main p {
@@ -231,7 +229,6 @@ body {
   transition: opacity 0.3s, visibility 0.3s; /* Smooth animation */
 }
 
-
 /* For tablets */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .drawer a {
@@ -296,7 +293,7 @@ body {
   .navbar-logo img {
     max-height: 40px;
   }
- 
+
   .navbar-text {
     text-decoration: none;
     color: white;
@@ -339,93 +336,92 @@ body {
 }
 
 * {
- 
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 profile {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 profile .card {
-    width: 600px;
+  width: 600px;
   height: 300px;
-    background-color: var(--white);
-    display: flex;
-    border-radius: 12px;
+  background-color: var(--white);
+  display: flex;
+  border-radius: 12px;
 }
-profile .card .card__img, profile .card .card__content {
-    width: 50%;
+profile .card .card__img,
+profile .card .card__content {
+  width: 50%;
 }
 profile .card .card__img picture {
-    width: 100%;
-    height: 100%;
-    display: block;
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 profile .card .card__img picture img {
-    width: 100%;
-    height: 100%;
-    border-radius: 12px 0px 0px 12px;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px 0px 0px 12px;
 }
 
 profile .card .card__content {
-    padding: 0px;
-    display: flex;
-    flex-direction: column;
-    row-gap: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 0px;
 }
 profile .card .card__content .card__tag {
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 20px;
   margin-left: 20px;
-    color: var(--dark-grayish-blue);
+  color: var(--dark-grayish-blue);
 }
 profile .card .card__content .card__title {
-    font-family: 'Fraunces', serif;
-    text-transform: capitalize;
+  font-family: "Fraunces", serif;
+  text-transform: capitalize;
 }
 profile .card .card__content .card__desc {
-    font-size: 15px;
-    color: var(--dark-grayish-blue);
-    line-height: 24px;
-   margin-left: 20px;
+  font-size: 15px;
+  color: var(--dark-grayish-blue);
+  line-height: 24px;
+  margin-left: 20px;
 }
 profile .card .card__content .card__price {
-    display: flex;
-    align-items: center;
-    column-gap: 20px;
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
 }
 profile .card .card__content .card__price h1 {
-    color: var(--dark-cyan);
-    font-family: 'Fraunces', serif;
+  color: var(--dark-cyan);
+  font-family: "Fraunces", serif;
 }
 profile .card .card__content .card__price s {
-    font-size: 14px;
-    color: var(--dark-grayish-blue);
+  font-size: 14px;
+  color: var(--dark-grayish-blue);
 }
 profile .card .card__content .card__btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    column-gap: 10px;
-    background-color: var(--dark-cyan);
-    padding: 14px;
-    outline: none;
-    border: 0;
-    border-radius: 10px;
-    color: var(--white);
-    font-weight: 700;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background 200ms linear;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  background-color: var(--dark-cyan);
+  padding: 14px;
+  outline: none;
+  border: 0;
+  border-radius: 10px;
+  color: var(--white);
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 200ms linear;
 }
 profile .card .card__content .card__btn:hover {
-    background-color: var(--very-dark-blue);
+  background-color: var(--very-dark-blue);
 }
-
 
 /* For tablets and small screens (max-width: 768px) */
 @media (max-width: 768px) {
@@ -441,8 +437,8 @@ profile .card .card__content .card__btn:hover {
   body {
     background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
     background-repeat: no-repeat;
-  background-size: cover; /* Adjust the size to cover the entire viewport */
-  background-attachment: fixed;
+    background-size: cover; /* Adjust the size to cover the entire viewport */
+    background-attachment: fixed;
   }
   .small-screen-message {
     display: block;
@@ -456,19 +452,58 @@ profile .card .card__content .card__btn:hover {
   }
 }
 
-  .hover-image {
-            transition: transform 0.3s; /* Add a smooth transition effect */
-        }
+.hover-image {
+  transition: transform 0.3s; /* Add a smooth transition effect */
+}
 
- .hover-image:hover {
-            transform: scale(1.1); /* Increase the size on hover (you can adjust the scale factor as needed) */
-            /* You can also add other CSS properties for more advanced hover effects like changing the opacity, adding a border, etc. */
-        }
- .card__content {
-            transition: transform 0.3s;
-        }
+.hover-image:hover {
+  transform: scale(
+    1.1
+  ); /* Increase the size on hover (you can adjust the scale factor as needed) */
+  /* You can also add other CSS properties for more advanced hover effects like changing the opacity, adding a border, etc. */
+}
+.card__content {
+  transition: transform 0.3s;
+}
 
- .card__content:hover {
-            transform: scale(1.1); /* Increase the size on hover (you can adjust the scale factor as needed) */
-            /* You can customize the hover effect for .card__content as needed. */
-        }
+.card__content:hover {
+  transform: scale(
+    1.1
+  ); /* Increase the size on hover (you can adjust the scale factor as needed) */
+  /* You can customize the hover effect for .card__content as needed. */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: -100%; /* Initially hide the overlay to the left */
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(128, 128, 128, 1) 0%,
+    rgba(128, 128, 128, 0) 80%,
+    rgba(128, 128, 128, 0) 100%
+  );
+  opacity: 0; /* Initial opacity set to 0 */
+  transition: left 0.5s, opacity 0.5s; /* Add opacity transition */
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  align-items: flex-start; /* Adjust text alignment to the left */
+  justify-content: flex-start; /* Adjust text alignment to the top */
+  padding: 20px; /* Add padding for spacing */
+
+  font-size: 24px;
+  color: white;
+}
+
+.certificate-container:hover .overlay {
+  left: 0; /* Slide the overlay in from the left on hover */
+  opacity: 1; /* Set opacity to 0.7 on hover */
+}
+.certificate-container {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
