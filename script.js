@@ -12,3 +12,9 @@
         }
       });
     });
+
+if (window.location.href.indexOf("https://nthnlgmz.github.io/Reflection-Journal/") === -1) {
+    // Redirect to a custom 404 error page
+    window.location.href = "https://dione.batstate-u.edu.ph/student/#/";
+}
+
