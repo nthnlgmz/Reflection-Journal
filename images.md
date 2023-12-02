@@ -19,6 +19,20 @@
 ![Copy of Certificate for Nathaniel A  Gomez](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b868aec9-acd2-4b16-869f-490b314a8e20)
 11. MEXtraordinary Safety: A Comprehensive Seminar on Cultivating OSH Excellence
 ![MEXtraordinary_ E-Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a14e98a6-d56a-41fb-abab-677a3d215f33)
+12. ![Gomez, Nathaniel A_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ea94d0d4-0648-433e-ac2f-ab27dea3ec6b)
+13. ![Nathaniel A  Gomez (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a707b7e-00ca-450a-9f29-74ba6e9c0279)
+14. ![131](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5fef9d32-08dd-4fe2-8648-c0c3b258bcbb)
+15. ![Form1-232_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ddb77d21-2f1a-4e96-955f-1873382ff841)
+16. ![Nathaniel A  Gomez (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/aac54c14-76be-4fab-9a2c-3a3a27087659)
+17. ![Nathaniel A  Gomez (3)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a61abdd7-6809-4b01-a2f9-6b96eaaa9f1b)
+18. ![Gomez, Nathaniel A](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8f58bfe7-2161-445e-b3d1-f0e1ac924429)
+19. ![Mexe 01-Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/087952f7-4b6c-41b1-a740-f0d4dc868aaa)
+20. ![Certificate of Participation Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1891946f-7647-4cd5-ab6d-cef01077ef86)
+21. ![CERT PARTICIPANTS_SPARK THE ENTHUSIASM_ UNLEASHING THE FUN AND INTERACTIVE ESSENCE OF ROBOTICS_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f9ce0358-f3ec-4021-be55-2cd46dbf8032)
+22. ![Nathaniel A  Gomez (4)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a2df2d0-2c97-4ebb-8d32-b46ec931aabc)
+23. ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
+24. ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
+
 
 
 
