@@ -47,6 +47,8 @@
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
 25. Building the Culture of Safety: OSH Laws and You
     ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
+26. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
+    ![E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce170b43-1417-4f41-89f7-251267a32e49)
 
 
 
