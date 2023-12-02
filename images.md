@@ -45,6 +45,8 @@
     ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
 24. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
+25. Building the Culture of Safety: OSH Laws and You
+    ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
 
 
 
