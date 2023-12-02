@@ -1,3 +1,34 @@
+1. BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis![BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c5a89efe-89f4-406c-a0a3-c8ece2d78e84)
+2. Going in-Depth: Diving into Perfection through Calibration and Building Automation System (BAS)
+![Gomez, Nathaniel A  - CERT_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/2343f03c-e39c-406a-a488-7d6784b3f4b6)
+3. Beyond the Basics: Unlocking Potential through Advanced Instrumentation and Control Engineering
+![E-Certificate Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/12ef0af6-ffd8-46f2-8947-4785bf1476f3)
+4. From Science Fiction to Reality: The Rise of Artificial Intelligence
+![Certificate of Appreciation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c4e3a6b0-50ef-4f80-a6f2-a8dbebc5b65d)
+5. Navigating Challenges, Seizing Opportunities: Leadership, Team Collaboration, and Engineering Excellence as Future Innovators
+![Thank you for your participation!_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1c155c32-c9cd-4203-a249-6a64bd53309f)
+6. Constructing Careers, Breaking Borders: Traversing I&C Landscapes on Construction Projects and Embarking on Professional Paths
+![E-Certificate for Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a581a8b8-efae-47f7-8d99-518218e67c57)
+7. Navigating Success After Earning Engineering Degree: Proven Strategies and Essential Tips
+![E-Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/e954b442-982a-41da-b734-f91cfa86b74b)
+8. Bridging the Gap: Applying Engineering Knowledge for Workplace Success
+![Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/7009d8c8-7302-401a-a094-1304e0af838c)
+9. Solidworks Essential
+![Nathaniel A  Gomez_page-0001 (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/452b82d6-f172-4f90-9cf2-4697e7b51637)
+10. Artificial Intelligence in Instrumentation and Control Engineering: Smart Automation and Control in Industry 4.0
+![Copy of Certificate for Nathaniel A  Gomez](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b868aec9-acd2-4b16-869f-490b314a8e20)
+11. MEXtraordinary Safety: A Comprehensive Seminar on Cultivating OSH Excellence
+![MEXtraordinary_ E-Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a14e98a6-d56a-41fb-abab-677a3d215f33)
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------
 ![62088290161211](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/724609c5-761e-4ba2-a923-d470dc5d3737)
 ![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/19945bfb-d036-416b-81cb-21a18a8e100b)
 ![Nathaniel A  Gomez (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/70ce4423-de31-41d7-81c7-fced207877cc)
