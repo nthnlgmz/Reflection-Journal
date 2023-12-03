@@ -1,53 +1,83 @@
-1. BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis![BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c5a89efe-89f4-406c-a0a3-c8ece2d78e84)
+1. BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis![BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c5a89efe-89f4-406c-a0a3-c8ece2d78e84) 
+Mr. Fortunato D. Barroga Jr. - Safety Officer at Al Ahlia
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b74c6e48-0350-43c6-82a2-a8fd56e3bc78)
 2. Going in-Depth: Diving into Perfection through Calibration and Building Automation System (BAS)
-![Gomez, Nathaniel A  - CERT_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/2343f03c-e39c-406a-a488-7d6784b3f4b6)
+![Gomez, Nathaniel A  - CERT_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/2343f03c-e39c-406a-a488-7d6784b3f4b6) 
+Lemuel Salazar - Calibration Technician at Southern Metrology and Calibration Services Incorporated
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/22e18aa0-7544-4b43-9b81-12baaa68fee2)
+Engr. Santos C. Capellan Jr. - BMS Engineer at SAMKO INTERNATIONAL CO WLL
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/4acb2d08-7dcc-4a31-bceb-7385738cb8f7)
 3. Beyond the Basics: Unlocking Potential through Advanced Instrumentation and Control Engineering
 ![E-Certificate Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/12ef0af6-ffd8-46f2-8947-4785bf1476f3)
+Engr. Kimara Samantha M. Caguicla - Electronics Engineering Technician | Instrumentation and Control Engineer
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b67c29a8-3b92-421c-a647-1cef8bbca345)
 4. From Science Fiction to Reality: The Rise of Artificial Intelligence
 ![Certificate of Appreciation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c4e3a6b0-50ef-4f80-a6f2-a8dbebc5b65d)
+Engr. Aunhel John M. Adoptante - AI/ML/NLP Engineer | Helping to change the world, one line of code at a time.
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a7787793-f222-453e-a31a-db955ae3366b)
 5. Navigating Challenges, Seizing Opportunities: Leadership, Team Collaboration, and Engineering Excellence as Future Innovators
 ![Thank you for your participation!_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1c155c32-c9cd-4203-a249-6a64bd53309f)
+Engr. Rafael Dela Cruz - A student Leader engaged on different organization (Intra-University, Departmental, Provincial, Regional & National) with different Positions. Always seeks for Continuous Improvement and Purpose-driven Projects.
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/e9734063-8879-43f1-909f-8d019bd458e3)
 6. Constructing Careers, Breaking Borders: Traversing I&C Landscapes on Construction Projects and Embarking on Professional Paths
 ![E-Certificate for Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a581a8b8-efae-47f7-8d99-518218e67c57)
+Engr. Marc Jason De Guzman - Project Management | Engineering | Customer Service | Analyst
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ede653da-99f4-4c26-bc0f-ded560e20d9f)
+Engr. Precilyn Rose Tablan - Instrumentation | Solution-Selling | Sales | AI & Automation | Digital Marketing
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1a31c4fb-53db-413e-84d1-0d643a86f982)
 7. Navigating Success After Earning Engineering Degree: Proven Strategies and Essential Tips
 ![E-Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/e954b442-982a-41da-b734-f91cfa86b74b)
+Engr. Romelyn De Castro - 
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0626f5d9-efc6-4186-9e34-b588dd3722a9)
 8. Bridging the Gap: Applying Engineering Knowledge for Workplace Success
 ![Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/7009d8c8-7302-401a-a094-1304e0af838c)
+Engr. Gian Garses M. Cruz - no photo
+Engr. John Michael P. Alipio - Target Pricing Leader at RingCentral
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1f84ba8b-5b7a-45ff-b438-42650826bb9c)
 9. Solidworks Essential
 ![Nathaniel A  Gomez_page-0001 (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/452b82d6-f172-4f90-9cf2-4697e7b51637)
+Engr. Louie Villaverde - FabLab Manager @ LIKHA FabLab
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/4149ec35-00f4-4e46-9559-b620bfc85199)
 10. Artificial Intelligence in Instrumentation and Control Engineering: Smart Automation and Control in Industry 4.0
 ![Copy of Certificate for Nathaniel A  Gomez](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/b868aec9-acd2-4b16-869f-490b314a8e20)
+Dr. Ryan S. Evangelista, I.S.P, ITCP, ASEAN EngTech, PCpE
+no photo
 11. MEXtraordinary Safety: A Comprehensive Seminar on Cultivating OSH Excellence
 ![MEXtraordinary_ E-Certificate of Participation_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a14e98a6-d56a-41fb-abab-677a3d215f33)
+Engr. Edison Gonzalvo, RME, SO3, PCO - Safety Practitioner/Mechanical Engineer
+![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8528c834-18a0-422b-8e0a-cfd5eb0d88ee)
 12. To Bot or Not Bot: How to Operationalize RPA from Ground Zero
     ![Gomez, Nathaniel A_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ea94d0d4-0648-433e-ac2f-ab27dea3ec6b)
-13. Mechatronics to Software Engineering: A Path of Adaptation and Innovation
+Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at SunPower Philippines Manufacturing Limited
+
+
+14. Mechatronics to Software Engineering: A Path of Adaptation and Innovation
     ![Nathaniel A  Gomez (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a707b7e-00ca-450a-9f29-74ba6e9c0279)
-14. Introduction to DSA: Data  Structure and algorithms
+15. Introduction to DSA: Data  Structure and algorithms
     ![131](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5fef9d32-08dd-4fe2-8648-c0c3b258bcbb)
-15. Unveiling the World of CNC Routers: A Comprehensive Guide to Computer Controlled Cutting
+16. Unveiling the World of CNC Routers: A Comprehensive Guide to Computer Controlled Cutting
     ![Form1-232_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ddb77d21-2f1a-4e96-955f-1873382ff841)
-16. Fueling the Future: A Glimpse into Automotive Innovation
+17. Fueling the Future: A Glimpse into Automotive Innovation
     ![Nathaniel A  Gomez (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/aac54c14-76be-4fab-9a2c-3a3a27087659)
-17. Breaking Barriers: Strategies for Handling Societal Pressure in Engineering
+18. Breaking Barriers: Strategies for Handling Societal Pressure in Engineering
     ![Nathaniel A  Gomez (3)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a61abdd7-6809-4b01-a2f9-6b96eaaa9f1b)
-18. 5 Whys: A Powerful Tool in Solving Problem
+19. 5 Whys: A Powerful Tool in Solving Problem
     ![Gomez, Nathaniel A](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8f58bfe7-2161-445e-b3d1-f0e1ac924429)
-19. Overview and Opportunities in Industrial Maintenance
+20. Overview and Opportunities in Industrial Maintenance
     ![Mexe 01-Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/087952f7-4b6c-41b1-a740-f0d4dc868aaa)
-20.  ATP Process Engineer Background
+21.  ATP Process Engineer Background
     ![Certificate of Participation Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1891946f-7647-4cd5-ab6d-cef01077ef86)
-21. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
+22. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
     ![CERT PARTICIPANTS_SPARK THE ENTHUSIASM_ UNLEASHING THE FUN AND INTERACTIVE ESSENCE OF ROBOTICS_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f9ce0358-f3ec-4021-be55-2cd46dbf8032)
-22. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
+23. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
     ![Nathaniel A  Gomez (4)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a2df2d0-2c97-4ebb-8d32-b46ec931aabc)
-23. MEXEportunity: Transforming Industries: Automation and Career Paths
+24. MEXEportunity: Transforming Industries: Automation and Career Paths
     ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
-24. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
+25. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
-25. Building the Culture of Safety: OSH Laws and You
+26. Building the Culture of Safety: OSH Laws and You
     ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
-26. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
+27. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
     ![E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce170b43-1417-4f41-89f7-251267a32e49)
 
 
